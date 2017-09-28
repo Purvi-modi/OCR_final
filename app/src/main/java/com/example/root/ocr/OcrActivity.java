@@ -40,6 +40,7 @@ public class OcrActivity extends AppCompatActivity {
     private static final String SAVED_INSTANCE_URI = "uri";
     private static final String SAVED_INSTANCE_RESULT = "result";
     private String blocks = "";
+    //the OCR activity
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

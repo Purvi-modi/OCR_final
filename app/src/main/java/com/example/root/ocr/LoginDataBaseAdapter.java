@@ -5,7 +5,7 @@ import android.content.Context;
 import android.database.Cursor;
 import android.database.SQLException;
 import android.database.sqlite.SQLiteDatabase;
-
+//login to database
 public class LoginDataBaseAdapter
 {
     static final String DATABASE_NAME = "login.db";

@@ -27,6 +27,7 @@ public class SignUpActivity extends Activity
     {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.signup);
+        //the sign up activity
 
         // get Instance  of Database Adapter
         loginDataBaseAdapter=new LoginDataBaseAdapter(this);
